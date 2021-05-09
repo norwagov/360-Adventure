@@ -1,0 +1,3 @@
+﻿  win32_platform.cpp
+D:\GitHub\360-Adventure\360 Adventure\360 Adventure\win32_platform.cpp(23,5): warning C4007: "WinMain": musi być "__stdcall"
+  360 Adventure.vcxproj -> D:\GitHub\360-Adventure\360 Adventure\Debug\360 Adventure.exe

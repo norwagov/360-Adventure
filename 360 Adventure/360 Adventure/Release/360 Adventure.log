@@ -1,0 +1,4 @@
+﻿  win32_platform.cpp
+D:\GitHub\360-Adventure\360 Adventure\360 Adventure\win32_platform.cpp(7,5): warning C4007: "WinMain": musi być "__stdcall"
+D:\GitHub\360-Adventure\360 Adventure\360 Adventure\win32_platform.cpp(13,51): error C2440: "=": nie można konwertować z "const char [19]" na "LPCWSTR"
+D:\GitHub\360-Adventure\360 Adventure\360 Adventure\win32_platform.cpp(13,31): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji
